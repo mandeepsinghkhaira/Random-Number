@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+  color: azure;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
+h2{
+    font-size: 0.8rem;
+}
+img{
+    width: 5rem;
+}
+.buttonStyle{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  border: 0.05cm solid white;
+  font-family: monospace;
+  width: 5rem;
+}
+.container{
+    text-align: center;
+    padding: 2rem;
+    font-family: monospace;
+}
